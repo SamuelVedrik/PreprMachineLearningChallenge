@@ -2,9 +2,6 @@ pandas
 numpy
 matplotlib
 seaborn
-re
-IPython.display
-ipywidgets
 nltk
 nltk.corpus
 nltk.stem.porter
