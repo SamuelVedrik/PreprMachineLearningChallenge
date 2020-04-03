@@ -3,11 +3,5 @@ numpy
 matplotlib
 seaborn
 nltk
-nltk.corpus
-nltk.stem.porter
-nltk.stem.wordnet
-nltk.tokenize
-sklearn.feature_extraction.text
-sklearn.cluster
-sklearn.decomposition
+sklearn
 voila
