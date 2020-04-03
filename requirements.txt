@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+re
+IPython.display
+ipywidgets
+nltk
+nltk.corpus
+nltk.stem.porter
+nltk.stem.wordnet
+nltk.tokenize
+sklearn.feature_extraction.text
+sklearn.cluster
+sklearn.decomposition
+voila
